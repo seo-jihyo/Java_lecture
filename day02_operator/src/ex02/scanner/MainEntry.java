@@ -9,6 +9,7 @@ public class MainEntry {
 
 		//표준 입력 : System.in
 		Scanner sc = new Scanner(System.in); //객체 생성, 메모리 할당, 생성자함수 자동 호출
+		//Scanner xx = new Scanner() 이름이 같음 = 생성자함수
 		System.out.print("정수 데이터 입력 요망 : ");
 		int su = sc.nextInt();
 		
