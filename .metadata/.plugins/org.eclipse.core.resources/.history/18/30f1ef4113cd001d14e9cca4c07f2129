@@ -1,0 +1,17 @@
+package ex_02.datatype;
+
+public class DataType {
+	public static void main(String[] args) {
+		String str = "A";   //문자열 ""
+		char ch = 'A'; 		//문자, ' ' ,1byte
+		char ch2 = 67;
+		char ch3 = 'b';
+		int su = 20; String nicname = "happy"; double d = 12.34;
+		
+		
+		System.out.println(ch); //A
+		System.out.println(str);//A
+		System.out.println((int)ch); //A, ASCII
+		System.out.println(ch2 + ch3); //A, ASCII
+	}
+}
