@@ -2,9 +2,9 @@ package quiz;
 
 import java.util.Scanner;
 
-//이름 입력받고 성적 국어 영어 전산 점수 입력받기 총점 평균 구하기
 public class Score {
 	public static void main(String[] args) {
+		
 		
 		String name;
 		int kor, eng, com, total;
