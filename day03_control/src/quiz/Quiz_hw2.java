@@ -15,7 +15,7 @@ public class Quiz_hw2 {
 		if (op == '+') System.out.println(a + b); 
 		else if (op == '-') System.out.println(a - b); 
 		else if (op == '*') System.out.println(a * b); 
-		else System.out.println(a / b); 
+		else System.out.println((double)a / b); 
 	
 	}
 }

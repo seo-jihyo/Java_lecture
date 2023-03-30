@@ -25,7 +25,6 @@ public class Quiz_IF {
 		}
 	}*/
 	
-	/*
 	//3과목으로 평균내고 과락
 	public static void main(String[] args) {
 
@@ -41,7 +40,7 @@ public class Quiz_IF {
 		total = kor + eng + com;
 		avg =  (double) total/3;
 
-		System.out.println("평균은" + %.2f + "점입니다.", avg);
+		System.out.println("평균은" + avg + "점입니다.");
 
 		if (avg >= 60) {
 
@@ -64,7 +63,7 @@ public class Quiz_IF {
 			System.out.println("평균 점수 미달 불합격.");			
 		}
 	}
-	*/
+	/*
 	//교수님 풀이
 	public static void main(String[] args) {
 		System.out.println("kor= "); int kor = new Scanner(System.in).nextInt();
@@ -88,4 +87,5 @@ public class Quiz_IF {
 				System.out.printf("평균이 %.1f이지만 [평균 미달 탈락]입니다.", avg);
 		}	//out if end
 	}
+	 */
 }
