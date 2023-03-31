@@ -1,7 +1,5 @@
 package ex_04.For;
 
-import javax.swing.text.StyledEditorKit.ForegroundAction;
-
 public class QuizEx1 {
 
 
