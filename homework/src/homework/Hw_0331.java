@@ -9,8 +9,7 @@ public class Hw_0331 {
 		for (int i = 1; i <= 5; i++) {
 			sum += i;
 			total += sum;
-			}
-		
+			}		
 		System.out.println(total);
 	}
 }

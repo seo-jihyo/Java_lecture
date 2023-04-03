@@ -8,8 +8,7 @@ public static void main(String[] args) {
 		for (int i = 0; i < ball.length; i++) {
 			ball[i] = i+1;     //45개의 배열 선언을 하면 0~44까지 배열이 생성, 그래서 i+1을 해줌
 		
-		}
-		
+		}		
 		int temp = 0;
 		int j = 0;
 		
