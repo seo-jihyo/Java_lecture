@@ -6,7 +6,7 @@ import java.util.Scanner;
 //평균(double소수점 두자리) 구하는 프로그램
 public class QuizEx2 {
 	public static void main(String[] args) {
-		
+
 		System.out.print("Day: "); //날짜 입력
 		int n = new Scanner(System.in).nextInt();
 		int[] day = new int[n];  //30일 입력받으면 n=30
