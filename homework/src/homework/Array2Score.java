@@ -31,7 +31,7 @@ public class Array2Score {
 				score[i][j] = sc.nextInt();
 				score[i][3] += score[i][j]; //총점
 				
-				avg[i] = (double) score[i][3] /NO;
+				
 				
 				//학점(평점)
 				switch( (int)avg[i]  / 10) {

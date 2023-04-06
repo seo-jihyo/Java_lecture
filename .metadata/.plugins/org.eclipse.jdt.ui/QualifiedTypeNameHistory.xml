@@ -2,14 +2,21 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="ex02.scanner.ScannerTest"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
     <fullyQualifiedTypeName name="quiz.QuizGuGuDan"/>
     <fullyQualifiedTypeName name="quiz.DoWhileGuGuDan"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.security.auth.Subject"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="ex02.method.MainEntry"/>
+    <fullyQualifiedTypeName name="ex06.instance_static.B"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="ex03.oop.Point"/>
+    <fullyQualifiedTypeName name="ex03.oop.Rectangle"/>
+    <fullyQualifiedTypeName name="quiz.Score"/>
 </qualifiedTypeNameHistroy>
