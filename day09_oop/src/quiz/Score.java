@@ -39,21 +39,20 @@ public class Score {
 		return total;
 	}
 	public void setTotal(int total) {
-		this.total = total;
+		this.total = this.kor+this.eng+this.com;
 	}
 	public double getAvg() {
 		return avg;
 	}
 	public void setAvg(double avg) {
-		this.avg = avg;
+		this.avg = this.total / 3;
 	}
+	
 	
 	
 	//입력
 	public void input() {
-		
-			
-		
+
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("이름을 입력하세요");
@@ -64,8 +63,10 @@ public class Score {
 		setEng(sc.nextInt());
 		System.out.println("전산 점수: ");
 		setCom(sc.nextInt());
+		
 	
 	}
+	
 	public char grade() {
 
 		switch ((int) this.avg / 10) {

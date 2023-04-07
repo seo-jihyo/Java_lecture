@@ -3,11 +3,17 @@ package ex06.instance_static;
 // ex. Scanner sc = new Scanner(System.in);
 //		int x = sc.nextInt();  <-- nextInt() 등
 
+//class A {
+//	int x, y;
+//} //같은 패키지에 동일한 패키지명은 안됨
+
+
+
+
 class B {
 	int x, y;
 	
 	//intstance method
-	
 	public void setData(int xx, int yy) {
 		System.out.println(xx+","+yy);
 	}

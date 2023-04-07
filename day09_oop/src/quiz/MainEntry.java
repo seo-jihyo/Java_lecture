@@ -5,8 +5,8 @@ public class MainEntry {
 		
 		Score s = new Score();
 		s.input();
-		s.setTotal(s.getKor()+s.getEng()+s.getCom());
-		s.setAvg(s.getTotal()/3.0);
+		s.setTotal(s.getTotal());
+		s.setAvg(s.getAvg());
 		s.grade();
 
 	//output 호출 (출력)

@@ -19,4 +19,6 @@
     <fullyQualifiedTypeName name="ex03.oop.Point"/>
     <fullyQualifiedTypeName name="ex03.oop.Rectangle"/>
     <fullyQualifiedTypeName name="quiz.Score"/>
+    <fullyQualifiedTypeName name="ex01.constructor.Circle"/>
+    <fullyQualifiedTypeName name="quiz2.Sawon"/>
 </qualifiedTypeNameHistroy>
