@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="javax.security.auth.Subject"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="ex02.method.MainEntry"/>
     <fullyQualifiedTypeName name="ex06.instance_static.B"/>
@@ -21,4 +20,9 @@
     <fullyQualifiedTypeName name="quiz.Score"/>
     <fullyQualifiedTypeName name="ex01.constructor.Circle"/>
     <fullyQualifiedTypeName name="quiz2.Sawon"/>
+    <fullyQualifiedTypeName name="ex03.inheritance.Point"/>
+    <fullyQualifiedTypeName name="homework.Employee"/>
+    <fullyQualifiedTypeName name="homework.Regular"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="homework.Sales"/>
 </qualifiedTypeNameHistroy>
