@@ -14,4 +14,6 @@ public class Subway extends Trans {
 		System.out.println(name + " 정지");
 	}
 
+	String name;
+	
 }
