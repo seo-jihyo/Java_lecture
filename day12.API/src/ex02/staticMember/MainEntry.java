@@ -24,6 +24,7 @@ package ex02.staticMember;
 			total += 30;
 			System.out.println("count = " + count);
 			System.out.println("total = " + total);
+			//인스턴스 메소드는 스태틱, 인스턴스 변수 둘 다 사용 가능
 		}
 	}
 	public class MainEntry {
