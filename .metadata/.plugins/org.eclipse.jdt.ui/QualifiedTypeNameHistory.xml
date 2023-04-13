@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex02.scanner.ScannerTest"/>
-    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
-    <fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.ForegroundAction"/>
-    <fullyQualifiedTypeName name="quiz.QuizGuGuDan"/>
     <fullyQualifiedTypeName name="quiz.DoWhileGuGuDan"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
@@ -21,7 +16,6 @@
     <fullyQualifiedTypeName name="ex03.inheritance.Point"/>
     <fullyQualifiedTypeName name="homework.Employee"/>
     <fullyQualifiedTypeName name="homework.Regular"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="homework.Sales"/>
     <fullyQualifiedTypeName name="ex04.inheritance.Shape"/>
     <fullyQualifiedTypeName name="javax.sound.sampled.Line"/>
@@ -45,7 +39,25 @@
     <fullyQualifiedTypeName name="ex02.staticMember.Atm"/>
     <fullyQualifiedTypeName name="ex03.Enum.UserStatus"/>
     <fullyQualifiedTypeName name="java.awt.Point"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="ex04.apiObject.Rectangle"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.nio.file.attribute.AclEntry"/>
+    <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="ex08.utilPakage.StringTokenizerEx"/>
+    <fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="ex01.collection.set.HashSetEx"/>
+    <fullyQualifiedTypeName name="ex01.collection.set.Person"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.Enumeration"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="quiz.Customer"/>
 </qualifiedTypeNameHistroy>
