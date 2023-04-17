@@ -14,14 +14,14 @@ public class VideoMain  extends Video {
 		Scanner sc = new Scanner(System.in);
 		
 		Video vdo = null;   
-		int choise = 0;
+		int choice = 0;
 		
 		while(true){
 			
 				System.out.println("1.비디오 정보 추가\n2.비디오 정보 수정\n3.비디오 삭제\n4.모든 비디오 보기\n0.프로그램 종료");
-				choise = sc.nextInt();
+				choice = sc.nextInt();
 				
-			switch(choise){
+			switch(choice){
 			case 1:
 				vdo = new Video(); 
 				System.out.println("비디오 제목을 입력해 주세요. ");
