@@ -22,6 +22,8 @@ public class Quiz사칙연산2 {
 		if (y == 0 ) {
 			System.out.println("0으로 나눌 수 없다.");
 			System.exit(0);
+		}else {
+			System.out.println(x +"/" +y+"="+(x/y));
 		}
 		return x/y;
 		
