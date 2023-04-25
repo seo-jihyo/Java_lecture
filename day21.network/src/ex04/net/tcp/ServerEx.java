@@ -46,6 +46,7 @@ public class ServerEx {
 //				ss.close(); //서버소켓도 종료하면 못들어옴 계속되어야 하기 때문에
 			} catch (Exception e) {
 				System.out.println("클라이언트와 채팅 중 오류 발생");
+
 			}
 		}
 	}
