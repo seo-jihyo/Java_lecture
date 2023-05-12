@@ -21,7 +21,8 @@ public class GiftSelect {
 		ResultSet rs = stmt.executeQuery("select * from GIFT");
 		//반환값이 있는 경우 ezecuteQuery() - select
 		System.out.println("상품번호\t사움명\t최저가\t최고가");
-		while (rs.next()) {
+		
+		while (rs.next()) { //다음으로 내려줌
 			int gno = rs.getInt(1);  //rs.getXXX(인덱스 번호); rs.getXXX"필드먐[/
 			String gname= rs.getString("gname");
 			int g_s = rs.getInt(3);
