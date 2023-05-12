@@ -1,11 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-    <typeInfo handle="=day10.inheritance/src&lt;ex04.inheritance{Shape.java[Shape" modifiers="1" timestamp="1681089721258"/>
-    <typeInfo handle="=day11.abstract/src&lt;ex02.Abstract{Shape.java[Shape" modifiers="1025" timestamp="1681096665343"/>
-    <typeInfo handle="=day11.abstract/src&lt;ex03.Abstract{Trans.java[Trans" modifiers="1025" timestamp="1681108423090"/>
-    <typeInfo handle="=day11.interface/src&lt;ex01.Interface{MainEntry.java[Shape" modifiers="0" timestamp="1681112701435"/>
-    <typeInfo handle="=day11.abstract/C:\/IDE\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1652591962000"/>
-    <typeInfo handle="=day12.API/C:\/IDE\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Exception.class[Exception" modifiers="33" timestamp="1652591962000"/>
-    <typeInfo handle="=day14.io/C:\/IDE\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.3.v20220515-1416\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.io(SerializablePermission.class[SerializablePermission" modifiers="49" timestamp="1652591962000"/>
-    <typeInfo handle="=day14.io/src&lt;quiz2{Person.java[Person" modifiers="1" timestamp="1681958861250"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>

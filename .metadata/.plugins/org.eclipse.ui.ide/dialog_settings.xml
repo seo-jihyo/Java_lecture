@@ -28,6 +28,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\workspace\daebo_lecture"/>
 			<item value="C:\daebo_th2\1_Java\workspace\day11.abstract\src\ex06"/>
 			<item value="C:\daebo_th2\1_Java\workspace\day11.abstract\src\ex05"/>
 			<item value="C:\daebo_th2\1_Java\workspace\day11.abstract\src\ex04"/>
